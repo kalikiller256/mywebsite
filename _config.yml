@@ -102,6 +102,6 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: 'https://github.com/kalikiller256/mywebsite.git'
-  bench: 'master'
+  type: ''
+  repo: ''
+  bench: ''
